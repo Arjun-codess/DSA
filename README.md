@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Arjun-codess/DSA/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/Arjun-codess/DSA/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Arjun-codess/DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Arjun-codess/DSA/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Arjun-codess/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
